@@ -61,7 +61,7 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 
 ## Experience
 
-###[Notes Publication](http://facebook.com/notespublication) (2012 - present)
+###[Notes Magazine](http://facebook.com/notespublication) (2012 - present)
 ####Co-founder of an Oxford-Cambridge arts and humanities magazine. Currently a trustee.
 
 * Seeking, editing and selecting material - from both students as well as established, award-winning writers from the UK and USA.
