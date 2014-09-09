@@ -13,16 +13,16 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 
 ###Skills
 
-* Ruby
-* Sinatra
-* Ruby on Rails
-* AngularJS
+* Ruby.
+* Sinatra.
+* Ruby on Rails.
+* AngularJS.
 * Ruby testing with RSpec, Cucumber and Capybara, with gems including Poltergeist, FactoryGirl, VCR, Webmock, Selenium and MailCatcher.
 * Gems such as Grape, Paperclip, PublicActivity, HTTParty and JBuilder.
 * Building and publishing gems with Bundler.
 * Build testing with Travis CI.
 * Authentication with Devise, Firebase, BCrypt and Omniauth.
-* AJAX, JQuery, Websockets
+* AJAX, JQuery, Websockets.
 * Testing with Jasmine, Karma and Protractor.
 * Javascript plugins and libraries such as Underscore and D3.
 * Yeoman, Grunt, Bower and NPM.
@@ -55,9 +55,9 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 ###Latymer Upper School (2003 - 2010)
 #### Hammersmith, London
 
-* A*AA*A*A* at A-Level in Mathematics, Further Mathematics, German, English Literature, and History
+* A*AA*A*A* at A-Level in Mathematics, Further Mathematics, German, English Literature, and History.
 * 13 A*s at GCSE, in Classical Greek, Latin, French, German, Italian, Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Geography and History.
-* A at FSMQ Additional Mathematics
+* A at FSMQ Additional Mathematics.
 
 ## Experience
 
@@ -88,6 +88,6 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 * Beautiful code.
 * Literature and 20th century philosophy.
 * Editing creative-writing and finding talented writers.
-* Football.
+* Going to see Chelsea at Stamford Bridge.
 * Learning.
 
