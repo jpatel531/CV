@@ -33,7 +33,7 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 * APIs such as Twilio, Stripe, Google Maps, TFL, Spritz and Sendgrid.
 * Bootstrap and CSS3.
 * Version control with Git and Github.
-* Deployment to Heroku in both Ruby and Node.
+* Deployment to Heroku in both Ruby and NodeJS.
 
 
 ## Education
@@ -41,11 +41,11 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 ###[Makers Academy](http://makersacademy.com) (May - August 2014)
 #### A highly selective, 12-week full-time bootcamp that teaches web development in London.
 
-* Starting from object-oriented development in Ruby, moving through Sinatra and Javascript, and finishing with the ability to build modern applications with Rails.
-* Learning a strong focus on pair programming, test-driven development, and agile methodologies.
+* Starting from object-oriented development in Ruby, moving through Sinatra and Javascript, and finishing with the ability to build modern applications with Rails using a number of gems and APIs.
+* Learning with a strong focus on pair programming, test-driven development, and agile methodologies.
 
 ###University of Cambridge (October 2010 - June 2013)
-#### Studying English at Fitzwilliam College, Cambridge
+#### English at Fitzwilliam College, Cambridge
 
 * Grade: 2.1
 * Part I Dissertation archived in the English Faculty library as one of the best that year, with a mark of 78.
