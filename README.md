@@ -65,7 +65,7 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 ####Co-founder of an Oxford-Cambridge arts and humanities magazine. Currently a trustee.
 
 * Seeking, editing and selecting material - from both students as well as established, award-winning writers from the UK and USA.
-* Organising crowdfunded and university-funded finances, as well as those received from online sales through BigCartel.
+* Organising crowd-funded and university-funded finances, as well as those received from online sales through BigCartel.
 * Setting up the publication in Oxford.
 * Maintaining and expanding Wordpress, Twitter and Facebook accounts.
 * Running events, such as issue launches and poetry readings.
