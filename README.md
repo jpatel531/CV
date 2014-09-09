@@ -1,13 +1,13 @@
 #Jamie Patel
 
-I am a recent University of Cambridge graduate in English, drawn to code for its blend of creativity and logical problem solving. I have recently graduated from [Makers Academy], a 12-week coding bootcamp in London, and am now looking for a job in a great company where I can continue to improve my skills as a developer.
+I am a recent University of Cambridge graduate in English, drawn to code for its blend of creativity and logical problem solving. I have recently graduated from [Makers Academy](http://makersacademy.com), a 12-week coding bootcamp in London, and am now looking for a job in a great company where I can continue to improve my skills as a developer.
 
 ##Code examples
 
 
-| [journey_planner] | [Funstagram] | [Github Challenge] |
+| [journey_planner](https://github.com/jpatel531/journey_planner) | [Funstagram](https://github.com/jpatel531/funstagram) | [Github Challenge](https://github.com/jpatel531/github_challenge) |
 |:------------ |:----------- |:---------------------------------- |
-| A Ruby gem that acts as a wrapper for the TFL Journey Planner API. As an example of its use, I built an app called [Last Train], where users can search for last train times and receive directions via SMS. | A Rails Instagram clone that incorporates, among other technologies, Websockets, Stripe, Amazon S3, ActionMailer and Google Maps.  | An AngularJS on Node app where the user can retrieve numerical and graphical data from their GitHub username. An exercise in using Karma, Protractor, Yeoman and D3.js |
+| A Ruby gem that acts as a wrapper for the TFL Journey Planner API. As an example of its use, I built an app called [Last Train](https://github.com/jpatel531/last-train), where users can search for last train times and receive directions via SMS. | A Rails Instagram clone that incorporates, among other technologies, Websockets, Stripe, Amazon S3, ActionMailer and Google Maps.  | An AngularJS on Node app where the user can retrieve numerical and graphical data from their GitHub username. An exercise in using Karma, Protractor, Yeoman and D3.js |
 
 ## Web development
 
@@ -20,6 +20,7 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 * Ruby testing with RSpec, Cucumber and Capybara, with gems including Poltergeist, FactoryGirl, VCR, Webmock, Selenium and MailCatcher.
 * Gems such as Grape, Paperclip, PublicActivity, HTTParty and JBuilder.
 * Building and publishing gems with Bundler.
+* Build testing with Travis CI.
 * Authentication with Devise, Firebase, BCrypt and Omniauth.
 * AJAX, JQuery, Websockets
 * Testing with Jasmine, Karma and Protractor.
