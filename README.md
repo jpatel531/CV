@@ -38,14 +38,56 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 
 ## Education
 
-###[Makers Academy] (May - August 2014)
+###[Makers Academy](http://makersacademy.com) (May - August 2014)
 #### A highly selective, 12-week full-time bootcamp that teaches web development in London.
 
 * Starting from object-oriented development in Ruby, moving through Sinatra and Javascript, and finishing with the ability to build modern applications with Rails.
 * Learning a strong focus on pair programming, test-driven development, and agile methodologies.
 
+###University of Cambridge (October 2010 - June 2013)
+#### Studying English at Fitzwilliam College, Cambridge
+
+* Grade: 2.1
+* Part I Dissertation archived in the English Faculty library as one of the best that year, with a mark of 78.
+* Final year dissertations on the impact of Albert Einstein's Theory of Relativity on Virginia Woolf's _The Waves_, and the impact of alchemy on Djuna Barnes's _Nightwood_.
+* Focus on the Classical Greek language, post-structualist critical theory, as well as 19th and 20th century scientific thought.
+
+###Latymer Upper School (2003 - 2010)
+#### Hammersmith, London
+
+* A*AA*A*A* at A-Level in Mathematics, Further Mathematics, German, English Literature, and History
+* 13 A*s at GCSE, in Classical Greek, Latin, French, German, Italian, Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Geography and History.
+* A at FSMQ Additional Mathematics
+
+## Experience
+
+###[Notes Publication](http://facebook.com/notespublication) (2012 - present)
+####Co-founder of an Oxford-Cambridge arts and humanities magazine. Currently a trustee.
+
+* Seeking, editing and selecting material - from both students as well as established, award-winning writers from the UK and USA.
+* Organising crowdfunded and university-funded finances, as well as those received from online sales through BigCartel.
+* Setting up the publication in Oxford.
+* Maintaining and expanding Wordpress, Twitter and Facebook accounts.
+* Running events, such as issue launches and poetry readings.
 
 
+###Kameleon (2013 - 2014)
+####A three-month internship at a digital brand content agency.
 
+* Compiling analytics reports from Google and Facebook platforms.
+* Research on strategy and competitor content.
+* Brainstorming campaigns for a number of accounts.
 
+###Horizons Bar (2010 - 2014)
+
+* Bar work.
+* Design for promotional material.
+
+##Interests
+
+* Beautiful code.
+* Literature and 20th century philosophy.
+* Editing creative-writing and finding talented writers.
+* Football.
+* Learning.
 
