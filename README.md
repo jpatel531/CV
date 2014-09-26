@@ -20,7 +20,7 @@ I am a recent University of Cambridge graduate in English, drawn to code for its
 * Ruby testing with RSpec, Cucumber and Capybara, with gems including Poltergeist, FactoryGirl, VCR, Webmock, Selenium and MailCatcher.
 * Gems such as Grape, Paperclip, PublicActivity, HTTParty, Delayed::Job and JBuilder.
 * Building and publishing gems with Bundler.
-* Build testing with Travis CI.
+* Travis CI.
 * Authentication with Devise, Firebase, BCrypt and Omniauth.
 * AJAX, JQuery, Websockets.
 * Testing with Jasmine, Karma and Protractor.
